@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GermanLern/static/css/main.aa93425c.css",
+    "main.js": "/GermanLern/static/js/main.c7da16fa.js",
+    "index.html": "/GermanLern/index.html",
+    "main.aa93425c.css.map": "/GermanLern/static/css/main.aa93425c.css.map",
+    "main.c7da16fa.js.map": "/GermanLern/static/js/main.c7da16fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa93425c.css",
+    "static/js/main.c7da16fa.js"
+  ]
+}
