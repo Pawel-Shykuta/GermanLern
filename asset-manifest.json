@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GermanLern/static/css/main.40a15936.css",
-    "main.js": "/GermanLern/static/js/main.9b8ee1db.js",
+    "main.css": "/GermanLern/static/css/main.57fe07f1.css",
+    "main.js": "/GermanLern/static/js/main.7f5d2f5f.js",
     "index.html": "/GermanLern/index.html",
-    "main.40a15936.css.map": "/GermanLern/static/css/main.40a15936.css.map",
-    "main.9b8ee1db.js.map": "/GermanLern/static/js/main.9b8ee1db.js.map"
+    "main.57fe07f1.css.map": "/GermanLern/static/css/main.57fe07f1.css.map",
+    "main.7f5d2f5f.js.map": "/GermanLern/static/js/main.7f5d2f5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.40a15936.css",
-    "static/js/main.9b8ee1db.js"
+    "static/css/main.57fe07f1.css",
+    "static/js/main.7f5d2f5f.js"
   ]
 }
